@@ -2,7 +2,7 @@
 <h2 align="center"> Repository pengumpulan tugas praktikum Algoritma Pemrograman Lab A2 Informatika Undip :metal:</h2>
 
 
-<h4 align="center"><samp> Halo ges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Selamat datang di repository pengumpulan tugas Alpro yang menyenangkan ❤ 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Halo ges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Selamat datang di repository pengumpulan tugas Alpro yang menyenangkan ❤ 🐍 ✨ </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
