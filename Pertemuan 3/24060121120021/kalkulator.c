@@ -1,4 +1,4 @@
-/*Nama File :  Kalk-SS.c*/
+/*Nama File :  kalkulator.c*/
 /*Nama Pembuat : Resma Adi Nugroho */
 /*Tanggal : 11 Maret 2022 */
 /*Deskripsi : program kalkulator atau perhitungan sederhana dengan masukan 2 buah bilangan*/
@@ -33,15 +33,15 @@ int main(void){
     {
     case 'a':
         hasil = iA + iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
+        printf("Hasil operasi tersebut : %d \n",(int)hasil);
         break;
     case 'b':
         hasil = iA - iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
+        printf("Hasil operasi tersebut : %d \n",(int)hasil);
         break;
     case 'c':
         hasil = iA * iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
+        printf("Hasil operasi tersebut : %d \n",(int)hasil);
         break;
     case 'd':
         hasil = iA/iB;
@@ -49,11 +49,11 @@ int main(void){
         break;
     case 'e':
         hasil = (int)iA/(int)iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
+        printf("Hasil operasi tersebut : %d \n",(int)hasil);
         break;
     case 'f':
         hasil = (int)iA % (int)iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
+        printf("Hasil operasi tersebut : %d \n",(int)hasil);
         break;
     default:
         printf("Bukan pilihan menu yang benar\n");
