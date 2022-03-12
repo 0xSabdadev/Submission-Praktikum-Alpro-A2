@@ -33,15 +33,15 @@ int main(void){
     {
     case 'a':
         hasil = iA + iB;
-        printf("Hasil operasi tersebut : %d \n",(int)hasil);
+        printf("Hasil operasi tersebut : %f \n",hasil);
         break;
     case 'b':
         hasil = iA - iB;
-        printf("Hasil operasi tersebut : %d \n",(int)hasil);
+        printf("Hasil operasi tersebut : %f \n",hasil);
         break;
     case 'c':
         hasil = iA * iB;
-        printf("Hasil operasi tersebut : %d \n",(int)hasil);
+        printf("Hasil operasi tersebut : %f \n",hasil);
         break;
     case 'd':
         hasil = iA/iB;
@@ -53,7 +53,7 @@ int main(void){
         break;
     case 'f':
         hasil = (int)iA % (int)iB;
-        printf("Hasil operasi tersebut : %d \n",(int)hasil);
+        printf("Hasil operasi tersebut : %f \n",hasil);
         break;
     default:
         printf("Bukan pilihan menu yang benar\n");
