@@ -8,9 +8,11 @@
 
 int main()
 {
+    //kamus
     char pil;
     int iA, iB;
 
+    //algoritma
     printf("masukan pilihan operasi: ");
     scanf("%c", &pil);
 
