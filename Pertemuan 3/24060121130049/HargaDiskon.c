@@ -8,9 +8,11 @@
 
 int main()
 {
+    //kamus
     char jenis;
     int harga;
 
+    //algoritma
     printf("masukan jenis: ");
     scanf("%c", &jenis);
 
