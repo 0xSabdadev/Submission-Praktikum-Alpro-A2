@@ -29,35 +29,30 @@ int main(void){
     printf("f : Hasil Bagi\n");
     printf("Masukan jenis operasi(gunakan huruf sesuai dengan jenis operasi) : ");
     scanf("%s",&pilihan);
-    switch (pilihan)
-    {
-    case 'a':
-        hasil = iA + iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
-        break;
-    case 'b':
-        hasil = iA - iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
-        break;
-    case 'c':
-        hasil = iA * iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
-        break;
-    case 'd':
-        hasil = iA/iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
-        break;
-    case 'e':
-        hasil = (int)iA/(int)iB;
-        printf("Hasil operasi tersebut : %d \n",(int)hasil);
-        break;
-    case 'f':
-        hasil = (int)iA % (int)iB;
-        printf("Hasil operasi tersebut : %f \n",hasil);
-        break;
-    default:
-        printf("Bukan pilihan menu yang benar\n");
-        break;
+    if(pilihan=='a'||pilihan=='b'||pilihan=='c'||pilihan=='d'||pilihan=='e'||pilihan=='f'){
+        switch (pilihan)
+        {
+        case 'a':
+            printf("Hasil operasi tersebut : %f \n",iA + iB);
+            break;
+        case 'b':
+            printf("Hasil operasi tersebut : %f \n",iA - iB);
+            break;
+        case 'c':
+            printf("Hasil operasi tersebut : %f \n",iA * iB);
+            break;
+        case 'd':
+            printf("Hasil operasi tersebut : %f \n",iA/iB);
+            break;
+        case 'e':
+            printf("Hasil operasi tersebut : %d \n",(int)iA/(int)iB);
+            break;
+        default :
+            printf("Hasil operasi tersebut : %f \n",(int)iA % (int)iB);
+            break;
+        }
+    } else {
+        printf("Bukan pilihan menu yang benar");
     }
     printf("================================================");
     return 0;
