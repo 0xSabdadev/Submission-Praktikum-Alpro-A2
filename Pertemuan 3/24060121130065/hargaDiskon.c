@@ -3,16 +3,17 @@
 /*Pembuat   	: 24060121130065 - Raihan Gilang Firdausy*/
 /*Tgl Pembuatan	: Kamis, 17-03-2022 17.30 WIB*/
 
-#include <stdio.h>
+#include <stdio.h>/*header file*/
 
+/*Program Utama*/
 int main()
 {
 
-    //Kamus
+    /*Kamus*/
     char d;
     int h,t;
 
-    //Algoritma
+    /*Algoritma*/
     printf("-----Program Menghitung Harga Diskon-----\n");
     printf("\nMasukkan input diskon (A, B, atau C) : ");
     scanf("%c", &d);
