@@ -3,17 +3,18 @@
 /*Pembuat   	: 24060121130065 - Raihan Gilang Firdausy*/
 /*Tgl Pembuatan	: Kamis, 17-03-2022 17.30 WIB*/
 
-#include <stdio.h>
+#include <stdio.h> /*header file*/
 
+/*Program Utama*/
 int main()
 {
 
-    //Kamus
+    /*Kamus*/
     char u;
     int iA,iB,h;
     float hasil;
 
-    //Algoritma
+    /*Algoritma*/
     printf("-----Kalkulator Super Sederhana-----\n");
     printf("Masukkan operasi : ");
     scanf("%c", &u);
