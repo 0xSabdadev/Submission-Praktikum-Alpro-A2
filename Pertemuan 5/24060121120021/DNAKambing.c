@@ -1,7 +1,7 @@
 /*Nama File :  DNAKambing.c*/
 /*Nama Pembuat : Resma Adi Nugroho */
 /*Tanggal : 30 Maret 2022 */
-/*Deskripsi : Menentukan berapa banyak saudara dan tidak saudara dari selisih kumpulan DNA*/
+/*Deskripsi : Menentukan berapa banyak kambing yang bersaudara dan tidak bersaudara dari selisih kumpulan DNA Kambing*/
 
 #include<stdio.h>
 #include<stdlib.h>
