@@ -17,7 +17,7 @@ int main(void){
     printf("Masukan banyak bilangan : ");
     scanf("%d",&N);
     
-    int A[N]; // Inisialisasi matriks A dengan ukuran dari masukan N
+    int A[N]; // Deklarasi array A dengan ukuran dari masukan N
 
     if(N>0){
         for(i=0;i<N;i++){
