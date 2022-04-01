@@ -1,6 +1,6 @@
 /* Nama file	: DNAKambingStatis.c */
 /* Deskripsi    : Menentukan jumlah kambing yang bersaudara dan tidak bersaudara */
-/* Pembuat		: 24060121130065 - Raihan Gilang Firdausy */
+/* Pembuat	: 24060121130065 - Raihan Gilang Firdausy */
 /* Tanggal      : 31 Maret 2022, 21.00 WIB */
 
 #include <stdio.h>
