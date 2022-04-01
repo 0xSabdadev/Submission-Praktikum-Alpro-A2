@@ -28,10 +28,7 @@ int main()
         }
         int ;
         for(j=1; j<=N; j++){
-            if((kelipatan%*(bil+j))==0){
-
-            }
-            else{
+            if((kelipatan%*(bil+j)) !=0){
                 kelipatan = kelipatan**(bil+j);
             }
         }
