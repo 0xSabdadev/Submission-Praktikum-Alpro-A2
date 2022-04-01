@@ -1,7 +1,7 @@
 /* Nama File    : DNAKambingDinamis.c
    Nama         : Annisa Kumala Dewi
    NIM          : 24060121120025
-   Lab			: Alpro A2
+   Lab			 : Alpro A2
    Deskripsi    : Menghitung banyaknya kambing bersaudara tanpa array dinamis
    Tanggal      : Jum'at, 1 April 2022*/
 
@@ -14,6 +14,7 @@ int main(void){
     int N;
     int i;
     int j;
+    int k;
     int BS; // bukan saudara
     int S; // saudara
     int *DNA;
@@ -28,9 +29,9 @@ int main(void){
             printf("Masukan DNA ke-%d : ",i+1);
             scanf("%d",DNA+i);
         }
-        for(i=0;i<N-1;i++){
-            for(i=j+1;i<N;i++){
-               if(abs(*(DNA+j)-(*(DNA+i)))<3){
+        for(i=1;i<=N;i++){
+            for(k=1;k<j;k++){
+               if(abs(*(DNA+j)-(*(DNA+k)))<3){
                     S++;
                 } else {
                     BS++;
