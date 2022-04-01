@@ -1,6 +1,6 @@
 /* Nama file	: DNAKambingDinamis.c */
 /* Deskripsi    : Menentukan jumlah kambing yang bersaudara dan tidak bersaudara */
-/* Pembuat	: 24060121130065 - Raihan Gilang Firdausy */
+/* Pembuat		: 24060121130065 - Raihan Gilang Firdausy */
 /* Tanggal      : 1 April 2022, 14.00 WIB */
 
 #include <stdio.h>
