@@ -8,7 +8,7 @@
 
 int main(void){
     /* Kamus */
-    int n,i,j,TB,S;
+    int n,i,j,k,TB,S;
     int *dna;
 
     /* Algoritma */
@@ -18,13 +18,13 @@ int main(void){
     S = 0;
     TB = 0;
     if(n>0){
-        for(i=0;i<n;i++){
-            printf("Masukan DNA ke-%d : ",i+1);
+        for(i=1;i<=n;i++){
+            printf("Masukan DNA ke-%d : ",i);
             scanf("%d",dna+i);
         }
-        for(i=0;i<n-1;i++){
-            for(i=j+1;i<n;i++){
-               if(abs(*(dna+j)-(*(dna+i)))<3){
+        for(j=n;j>1;j--){
+            for(k=1;k<j;k++){
+               if(abs(*(dna+j)-(*(dna+k)))<3){
                     S++;
                 } else {
                     TB++;
