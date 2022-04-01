@@ -25,7 +25,7 @@ int main(void){
     S = 0;
     BS = 0;
     if(N>0){
-        for(i=1;i<N;i++){
+        for(i=1;i<=N;i++){
             printf("Masukan DNA ke-%d : ",i+1);
             scanf("%d",DNA+i);
         }
