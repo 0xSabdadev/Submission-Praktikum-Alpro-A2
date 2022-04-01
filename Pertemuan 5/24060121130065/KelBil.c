@@ -1,6 +1,6 @@
 /* Nama file	: KelBil.c */
 /* Deskripsi    : Menentukan kelipatan faktor terkecil dari suatu array */
-/* Pembuat		: 24060121130065 - Raihan Gilang Firdausy */
+/* Pembuat	: 24060121130065 - Raihan Gilang Firdausy */
 /* Tanggal      : 1 April 2022, 15.30 WIB */
 
 #include <stdio.h>
