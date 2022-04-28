@@ -1,5 +1,5 @@
 /*Nama File 	: juruMasakTerbaik.c*/
-/*Deskripsi 	: membuat program counting sort descending*/
+/*Deskripsi 	: membuat program yang menyelesaikan masalah juru masak terbaik*/
 /*Pembuat   	: 24060121130049 - Kristian David Adi Prasetya*/
 /*Tgl Pembuatan	: 28 April 2022 - 17.35*/
 
