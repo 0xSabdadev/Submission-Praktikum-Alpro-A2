@@ -65,8 +65,6 @@ int main()
         printf("%d ",B[i]);
     }
 
-
-
     // juru masak kedua
     // step 1, buat array C sebanyak k
     for(x = 0; x <= z; x++) {
