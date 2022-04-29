@@ -31,7 +31,7 @@ int main(void){
     }
 
     //logic
-    for(int i=0;i<=k;i++){ //step 1, buat array c sebanyak K(max) isi 0 semua
+    for( i=0;i<=k;i++){ //step 1, buat array c sebanyak K(max) isi 0 semua
         C[i]=0;
     }
     for(j=1;j<=n;j++){// step 2, incremen berdasar element arr A
