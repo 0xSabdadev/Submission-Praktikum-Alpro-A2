@@ -19,7 +19,7 @@ int main(void){
     nilaiMsw msw;
     int retval;
 
-    FILE *file = fopen("file.txt", "r");
+    FILE *file = fopen("file2.txt", "r");
     FILE *lulusA = fopen("lulusA.txt", "w");
     FILE *lulusB = fopen("lulusB.txt", "w");
     FILE *lulusC = fopen("lulusC.txt", "w");
