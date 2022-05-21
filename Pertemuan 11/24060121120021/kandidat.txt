@@ -1,0 +1,6 @@
+5 2
+America 450
+Nadabatus 550
+Nadiatus 550
+Bernanda 200
+Strange 950
