@@ -1,0 +1,6 @@
+Daftar mahasiswa yang lulus mata kuliah Algortima dan Pemrograman dengan predikat A:
+
+Nungki 1964800228 84
+Kinan 1964800233 90
+Jamson 1964800242 82
+Gumyut 1964800243 84

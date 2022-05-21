@@ -1,0 +1,6 @@
+5 2
+Stephen 550
+Strange 550
+Wong 600
+Chavez 450
+Wanda 350
