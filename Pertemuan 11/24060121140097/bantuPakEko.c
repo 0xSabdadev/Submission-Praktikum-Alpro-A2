@@ -1,4 +1,4 @@
-/*Nama File     : Sorcerer Supreme.c*/
+/*Nama File     : bantuPakEko.c*/
 /*Deskripsi     : Membantu Pak Eko rekap nilai */
 /*Pembuat       : 24060121140097 - Wildan Adji Prabowo*/
 /*Tgl Pembuatan : 21 Mei 2022*/
