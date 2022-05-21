@@ -80,7 +80,7 @@ int main()
     {
         fprintf(hasil, "%s %d\n", listname[i], nilai[i]);
     }
-    
+    fclose(hasil);
     fclose(fileku);
     return 0;
 }
