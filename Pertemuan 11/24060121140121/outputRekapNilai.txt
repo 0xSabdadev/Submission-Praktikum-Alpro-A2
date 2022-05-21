@@ -1,0 +1,23 @@
+Daftar mahasiswa yang lulus mata kuliah Algoritma Pemrograman dengan predikat A
+
+Fairuz 24060121140121 92
+RajaMexico 24060121140224 89
+Ilham 24060121140122 90
+
+
+Daftar mahasiswa yang lulus mata kuliah Algoritma Pemrograman dengan predikat B
+
+Darrel 24060121120133 78
+Windah 24060121140221 75
+
+
+Daftar mahasiswa yang lulus mata kuliah Algoritma Pemrograman dengan predikat C
+
+Derva 24060121140155 65
+Satria 24060121140099 62
+
+
+Daftar mahasiswa yang tidak lulus mata kuliah Algoritma Pemrograman dengan predikat D
+
+Basudara 24060121130131 58
+Bintang 24060121120092 55
