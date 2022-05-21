@@ -2,7 +2,7 @@
 /*Deskripsi 	: membantu ancient one dalam mencari kandidat terbaik untuk sorcerer supreme*/
 /*Pembuat   	: Maulana Pasya Zefanya*/
 /*NIM           : 24060121140175*/
-/*Tgl Pembuatan	: 21 mei 2022 - 11.40*/
+/*Tgl Pembuatan	: 21 mei 2022*/
 
 #include <stdio.h>
 #include <stdlib.h>
