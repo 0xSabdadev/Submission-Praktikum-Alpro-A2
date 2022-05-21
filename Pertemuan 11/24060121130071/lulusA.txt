@@ -1,0 +1,4 @@
+Daftar mahasiswa dengan predikat A
+
+brody 24060708000088 99
+chance 24060121190071 85
