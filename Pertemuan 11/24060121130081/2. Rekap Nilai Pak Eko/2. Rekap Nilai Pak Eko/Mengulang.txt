@@ -1,0 +1,4 @@
+Daftar mahasiswa yang tidak lulus mata kuliah Algoritma Pemrograman dengan predikat D
+
+Sarah 24060121130086 55
+Dian 24060121130090 50
