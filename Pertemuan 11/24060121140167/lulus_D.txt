@@ -1,2 +1,0 @@
-Daftar mahasiswa yang tidak lulus mata kuliah Algoritma Pemrograman dengan predikat D
-

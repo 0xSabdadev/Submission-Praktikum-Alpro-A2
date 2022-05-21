@@ -1,2 +1,0 @@
-Daftar mahasiswa yang lulus mata kuliah Algoritma Pemrograman dengan predikat C
-
