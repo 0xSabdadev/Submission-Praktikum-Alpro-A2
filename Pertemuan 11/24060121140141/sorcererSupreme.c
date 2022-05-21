@@ -1,4 +1,4 @@
-/*Nama File 	: sprcererSupreme.c*/
+/*Nama File 	: sorcererSupreme.c*/
 /*Deskripsi 	: Membantu Ancient One dalam mencari kandidat terbaik untuk Sorcerer Supreme*/
 /*Pembuat   	: 24060121140141 - Muhammad Afiat Yulianto*/
 /*Tgl Pembuatan	: 21 Mei 2022, 19.37*/
