@@ -1,0 +1,4 @@
+Daftar Mahasiswa yang Lulus Mata Kuliah Algoritma Pemrograman dengan Predikat B
+
+Rayya 1964800232 72
+Hans 1964800245 70
