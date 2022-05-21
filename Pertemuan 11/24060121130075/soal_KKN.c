@@ -1,4 +1,4 @@
-/*Nama File 	: NilaiAkhir.c*/
+/*Nama File 	: soal_KKN.c*/
 /*Deskripsi 	: membantu Pak Eko merekap nilai akhir mahasiswa*/
 /*Pembuat   	: Muhamad Ridwan Ash'shidqi */
 /*NIMK          : 24060121130075*/
