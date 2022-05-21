@@ -1,0 +1,6 @@
+Daftar Mahasiswa yang Lulus Mata Kuliah Algoritma Pemrograman dengan Predikat A
+
+Nungki 1964800228 84
+Kinan 1964800233 90
+Jamson 1964800242 82
+Gumyut 1964800243 84
