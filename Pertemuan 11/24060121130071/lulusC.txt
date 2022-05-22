@@ -1,0 +1,3 @@
+Daftar mahasiswa dengan predikat C
+
+dumbo 24090100230099 60
