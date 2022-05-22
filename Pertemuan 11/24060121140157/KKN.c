@@ -1,7 +1,7 @@
 /*Nama File 	: KKN.c*/
 /*Deskripsi 	: membantu Pak Eko merekap nilai akhir mahasiswa*/
 /*Pembuat   	: Muhamad Aditya Yusuf */
-/*NIMK          : 24060121130075*/
+/*NIMK          : 24060121140157*/
 
 #include <stdio.h>
 #include <stdlib.h>
