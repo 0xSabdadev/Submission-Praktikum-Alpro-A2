@@ -1,0 +1,5 @@
+Daftar Mahasiswa Yang Tidak Lulus Mata Kuliah Algoritma Pemograman
+
+Wahyu 24060121140010 20
+Sema 24060121120017 56
+Gun 24060121130007 48
