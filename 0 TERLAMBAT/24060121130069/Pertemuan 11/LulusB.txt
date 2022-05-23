@@ -1,0 +1,6 @@
+Daftar Mahasiswa Yang Lulus Mata Kuliah Algoritma Pemograman dengan predikat B
+
+Paris 24060121140021 73
+Nana 24060121120071 71
+Toy 24060121120049 79
+Paris 24060121140021 73
