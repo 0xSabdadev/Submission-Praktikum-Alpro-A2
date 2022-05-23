@@ -1,0 +1,5 @@
+4 2
+Nadibatus 550
+Nadiatus 550
+Wong -600
+America 450
