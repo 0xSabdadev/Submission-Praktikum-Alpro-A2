@@ -1,0 +1,6 @@
+Daftar mahasiswa yang lulus mata kuliah Algoritma Pemrograman dengan predikat A
+
+Reza 24060121130081 85
+Bagus 24060121130083 90
+Dito 24060121130087 80
+Azel 24060121130089 80

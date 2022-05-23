@@ -1,0 +1,5 @@
+Daftar mahasiswa yang lulus mata kuliah Algoritma Pemrograman dengan predikat B
+
+Siska 24060121130082 70
+Diva 24060121130085 77
+Inez 24060121130088 75

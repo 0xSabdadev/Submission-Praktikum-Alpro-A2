@@ -1,0 +1,3 @@
+Daftar mahasiswa yang tidak lulus mata kuliah Algoritma Pemrograman dengan predikat D
+
+Lidya 1964800234 55
