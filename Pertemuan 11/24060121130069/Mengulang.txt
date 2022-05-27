@@ -1,0 +1,6 @@
+Daftar Mahasiswa Yang Tidak Lulus Kuliah Algoritma Pemograman
+
+Adel 24060121140045 45
+Agus 24060121140087 50
+Fahni 24060121130010 59
+Kim 24060121130032 37

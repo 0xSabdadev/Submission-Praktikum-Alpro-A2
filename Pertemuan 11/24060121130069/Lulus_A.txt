@@ -1,0 +1,10 @@
+Daftar Mahasiswa Yang Lulus Kuliah Algoritma Pemograman dengan predikat A
+
+0Jªÿ ªÿ 32767
+Ririn 24060121130069 87
+Gilang 24060121130043 90
+Loka 24060121120024 91
+Dimas 24060121130002 99
+Wahyu 24060121140021 89
+Fira 24060121120058 100
+Zidna 24060121130009 81

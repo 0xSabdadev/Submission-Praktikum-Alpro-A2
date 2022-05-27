@@ -1,0 +1,9 @@
+Daftar Mahasiswa Yang Lulus Kuliah Algoritma Pemograman dengan predikat B
+
+Dewi 24060121120036 76
+Setya 24060121120069 71
+Bayvi 24060121140111 79
+Ridho 24060121120169 78
+Sayang 24060121120001 70
+Dika 24060121130068 74
+Wisnu 24060121120046 72

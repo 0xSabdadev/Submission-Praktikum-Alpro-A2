@@ -1,0 +1,4 @@
+Daftar mahasiswa yang lulus mata kuliah Algortima dan Pemrograman dengan predikat B:
+
+Rayya 1964800232 72
+Hans 1964800245 70

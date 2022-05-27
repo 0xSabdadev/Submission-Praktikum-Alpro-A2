@@ -1,0 +1,8 @@
+Daftar Mahasiswa Yang Lulus Mata Kuliah Algoritma Pemograman dengan predikat A
+
+Ririn 24060121130069 90
+Vava 24060121140146 85
+Rara 24060121130029 92
+Gilang 24060121140182 100
+Dewi 24060121140004 82
+Tum 24060121130082 85

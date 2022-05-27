@@ -1,0 +1,3 @@
+Daftar mahasiswa yang lulus mata kuliah Algortima dan Pemrograman dengan predikat D:
+
+Lidya 1964800234 55

@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("Aku Cinta Alpro!\n");
+    printf("Aku Cinta Alpro\n");
     return 0;
 }
-
